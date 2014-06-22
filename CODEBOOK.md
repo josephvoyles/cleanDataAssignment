@@ -26,6 +26,7 @@ For the purpose of this exercise, all data set features or measurements that con
 3. The feature columns, subject column, and activity column were combined into a single table where each row represents a measurement for each subject
 4. Variable names were transformed to makes them more specific and added to the data set
 5. All features were averaged for each subject and activity pair and the final value for the feature is an average for all observations
+6. The tidy data set is tab delimited
 
 ## Variables
 The data set contains the following variables

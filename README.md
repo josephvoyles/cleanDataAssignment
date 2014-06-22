@@ -12,4 +12,5 @@ To execute run_analysis.r:
 1. open the file in r studio
 2. Set the r studio working directory to the source file location
 3. manually source the run_analysis.r or select source the active document from the toolbar
+4. The script will produce a tab delimited data set
 *Note: This script may produce warnings during execution. They can be ignored and script will still execte correctly*
